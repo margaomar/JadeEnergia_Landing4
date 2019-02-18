@@ -32,7 +32,7 @@ You can see those four projects live going to:
 
 
 
-<img src="screenshoots/landing4_iPhone6.jpg" width="320px">
+<img src="screenshots/landing4_iPhone6.jpg" width="320px">
 
 
 ----
@@ -40,7 +40,7 @@ You can see those four projects live going to:
 
 **Desktop Device**
 
-<img src="screenshoots/landing4_Desktop.jpg" width="1024px">
+<img src="screenshots/landing4_Desktop.jpg" width="1024px">
 
 
 
